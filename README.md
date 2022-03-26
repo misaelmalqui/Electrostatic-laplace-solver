@@ -2,13 +2,15 @@
 
  Representation of electrostatic systems by solving Laplace equation.
 
----
+## Description
 
-Required libraries
+Language
+
+- Python
+
+Required packages
 
 - shapely
-
----
 
 ## Gallery
 
@@ -37,3 +39,4 @@ Required libraries
 2. Arbitrary filled convex polygon
 3. Arbitrary empty polygon
 4. Arbitrary shape recongized from image detection
+5. Implementation of numerical computation in C language
